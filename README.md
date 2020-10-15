@@ -11,5 +11,13 @@ I'm João Pedro, a software engineer who loves automation. I'm in a serious rela
 - 👯 I’m looking to collaborate on .NET, .NET Core, Node.js and PHP backend solutions and Vue for frontend solutions
 - 🤔 I’m looking for help with app state management in Flutter
 - 💬 Ask me about World of Warcraft, .NET web apps, web semantics, testing tools and American Football
-- 📫 How to reach me: LinkedIn, e-mail or Telegram
 - ⚡ Fun fact: I used to be a hardcore PvE player World of Warcraft from Cataclysm to Legion (Nemesis and Azralon realms, FOR THE HORDE)
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoura&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jpmoura&theme=dark" /></td>
+    </tr>   
+  </table>
+</center>  
