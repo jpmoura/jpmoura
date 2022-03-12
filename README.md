@@ -6,7 +6,7 @@
 
 I'm João Pedro, a software engineer who loves automation. I'm in a serious relationship with .NET Core, an on and off with Node.js and PHP is my highschool sweetheart. Java is my ex.
 
-- 🔭 I’m currently working wtih [Serverless](https://www.serverless.com/) applications using Node.js + TypeScript and .NET Core in backend and React on frontend
+- 🔭 I’m currently working with embedded applications using Node.js + TypeScript and Jenkins as CI/CD tool
 - 🌱 I’m currently learning systems architectures, mobile development, CI/CD tools and React
 - 👯 I’m looking to collaborate on .NET, .NET Core, Node.js, PHP backend solutions and Vue or React for frontend solutions
 - 🤔 I’m looking for help with app state management in Flutter
